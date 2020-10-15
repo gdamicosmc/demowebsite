@@ -23,8 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Window Logo](/window-1-80s.jpg)
+[Link](url) and ![img](url)
 ```
+![Window Logo](/window-1-80s.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
